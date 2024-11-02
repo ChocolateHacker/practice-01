@@ -1,0 +1,43 @@
+commit eae55f8c8871ebae64d275ae6c0e2a2be3b1ce42
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:54:17 2024 +0500
+
+    Добавил prerelease.txt
+
+commit 39046285946dc8ce3db1dfb8e13ea8c73b8e703f
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:52:51 2024 +0500
+
+    Добавил txt
+
+commit 44b9a18a789e1829dbee6968a8ca9c060d1a56aa
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:48:51 2024 +0500
+
+    Добавил gitignore
+
+commit 55e5b6754aebd86503e3221dbae17875c258fb3f
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:45:31 2024 +0500
+
+    Revert "Мой второй коммит, изменил"
+    
+    This reverts commit 6968f32fe310707754999956e8483dde9bf3b250.
+
+commit 08690d2edab913c935cdeeb2670e7bde949bc005
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:41:49 2024 +0500
+
+    Мой третий коммит
+
+commit 6968f32fe310707754999956e8483dde9bf3b250
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:32:10 2024 +0500
+
+    Мой второй коммит, изменил
+
+commit e9a277a4c8d896c82e51874b5d9cdcf141a70bbc
+Author: vpiatkov <vsevolodpyatkov2002@gmail.com>
+Date:   Sat Nov 2 16:29:52 2024 +0500
+
+    Мой первый коммит
